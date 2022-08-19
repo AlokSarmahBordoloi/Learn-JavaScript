@@ -37,7 +37,6 @@ number3.forEach(function(number){
 
 
 
-
 const users = [
     {firstName: "Alok", age: 20, gender: 'male'},
     {firstName: "nitish", age: 28, gender: 'male'},
