@@ -26,6 +26,7 @@ console.log(squareNumber);
 
 
 
+
 // another example
 const users = [
     {fName: "Alok", age: 20},
