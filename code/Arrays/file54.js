@@ -20,6 +20,7 @@ const oddNumber = numbers.filter(isOdd);
 console.log(oddNumber);
 
 
+
 //using arrow function 
 // const oddNumber = numbers.filter((numbetr)=> {
 //     return number % 2 !==0;
