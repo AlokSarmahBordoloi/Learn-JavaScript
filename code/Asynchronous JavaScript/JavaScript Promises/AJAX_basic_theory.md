@@ -28,13 +28,13 @@ AJAX is not a programming language.
 - AJAX allows web pages to be updated asynchronously by exchanging data with a web server behind the scenes. 
 - This means that it is possible to update parts of a web page, without reloading the whole page.
 
-#### XML :
+## XML :
 - XML is a markup language much like HTML
 - XML was designed to store and transport data
 -XML was designed to be self-descriptive
 
 
-#### XML and HTML were designed with different goals:
+### XML and HTML were designed with different goals:
 
 - XML was designed to carry data - with focus on what data is
 - HTML was designed to display data - with focus on how data looks
