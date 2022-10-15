@@ -12,7 +12,6 @@
 // myFuc(2,4,7,19,6,84,1,32);
 
 
-
 //example:
 function addAll(...numbers){
     let total = 0;
