@@ -19,4 +19,3 @@ function addTwo(a,b=0){
 
 const ans = addTwo(4);
 console.log(ans);
-
