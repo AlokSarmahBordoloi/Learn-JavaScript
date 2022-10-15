@@ -1,6 +1,7 @@
 // lexical scope 
 
 
+
 const myVar = "value1";
 
 function myApp(){
