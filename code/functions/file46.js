@@ -31,7 +31,3 @@ function myApp(){
 }
 
 myApp();
-
-
-
-
