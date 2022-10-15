@@ -17,9 +17,9 @@ console.log(ans());
 
 
 
-    //direct return function (another method )
-// function myFunc(){
-//     return function(){
-//         return "hello world";
-//     }
-// }
+    direct return function (another method )
+function myFunc(){
+    return function(){
+        return "hello world";
+    }
+}
